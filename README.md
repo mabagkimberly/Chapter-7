@@ -10,3 +10,5 @@ AnimatedOpacity: I discovered how AnimatedOpacity can be used to change the opac
 AnimationController for Custom Animations: I learned how to use AnimationController to create custom animations. By controlling the animation's duration, curve, and state, I can fine-tune how a widget behaves during the animation,offering more control over how things move or change.
 
 AnimationController for Staggered Animations: I also learned how to use the AnimationController to coordinate staggered animations. This involves sequencing animations so that different elements on the screen animate one after another, creating a polished, layered effect.
+![470051806_1311123436581137_77456987029249594_n](https://github.com/user-attachments/assets/abfe5f17-1173-4b1e-80e0-831f566e3e39)
+![462649245_1183838409832396_9041452890476687139_n](https://github.com/user-attachments/assets/4136ad9b-1c93-4933-82f9-7f1ba298a966)
